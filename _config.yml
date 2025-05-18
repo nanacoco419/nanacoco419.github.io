@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Inyoung Jung"
-description              : "I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, advised by Prof. Sungeun Hong. My research focuses on building robust and adaptive AI through multimodal learning and test-time adaptation. I have proposed novel frameworks for semantic segmentation and classification under domain shifts, leveraging class-wise alignment and adaptive thresholding. Recently, I introduced a question-aware temporal reasoning model for audio-visual question answering, which integrates Gaussian experts and modality interaction. My recent work expands into audio-visual reasoning and zero-shot test-time adaptation via prompt-based modality fusion."
+description              : "M.S student at Sungkyunkwan Univ."
 repository               : "nanacoco419/nanacoco419.github.io"
 google_scholar_stats_use_cdn : true
 
