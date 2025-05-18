@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Inyoung Jung"
+description              : "I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, advised by Prof. Sungeun Hong. My research focuses on building robust and adaptive AI through multimodal learning and test-time adaptation. I have proposed novel frameworks for semantic segmentation and classification under domain shifts, leveraging class-wise alignment and adaptive thresholding. Recently, I introduced a question-aware temporal reasoning model for audio-visual question answering, which integrates Gaussian experts and modality interaction. My recent work expands into audio-visual reasoning and zero-shot test-time adaptation via prompt-based modality fusion."
+repository               : "nanacoco419/nanacoco419.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Inyoung Jung"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "M.S student at Sungkyunkwan Univ."
+  location         : "Seoul, Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=eiissBIAAAAJ"
+  email            : "jiy03150@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "nanacoco419" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
