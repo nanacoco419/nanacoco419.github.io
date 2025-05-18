@@ -52,7 +52,7 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
 
 # 📖 Educations
 - *2024.03 - present*: Sungkyunkwan University, M.S. Student, Department of Immersive Media Engineering.
-- *2021.03 - 2024.02*: Inha University, Bachelor or Engineering, Department of Information and Communication Engineering.
+- *2021.03 - 2024.02*: Inha University, Bachelor of Engineering, Department of Information and Communication Engineering.
 
 # 💻 Internships
 - *2025.01 - 2025.02*: AI Research Engineer Intern @ [ARI.ai](https://www.ariai.io/).
