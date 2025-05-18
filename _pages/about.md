@@ -34,13 +34,11 @@ Equal contribution are denoted by *
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/qa-tiger.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
-Question-Aware Gaussian Experts for Audio-Visual Question Answering, <strong><blue>CVPR 2025<blue></strong>
+- Question-Aware Gaussian Experts for Audio-Visual Question Answering, <strong><span style="color:blue">CVPR 2025</span> <span style="color:red">Highlight</span></strong> <small>(Accept. rate 22.12%)</small>
 
-Hongyeob Kim*, <blue>**Inyoung Jung**<blue>*, Dayoon Suh, Youjia Zhang, Sangmin Lee, and Sungeun Hong
+Hongyeob Kim*, <span style="color:blue"><strong>Inyoung Jung</strong></span>*, Dayoon Suh, Youjia Zhang, Sangmin Lee, and Sungeun Hong
 
-[[project page]](https://aim-skku.github.io/QA-TIGER/) [[arXiv]](https://arxiv.org/abs/2503.04459) [[paper]]() [[code]](https://github.com/AIM-SKKU/QA-TIGER) <a href='https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eiissBIAAAAJ&citation_for_view=eiissBIAAAAJ:d1gkVwhDpl0C'><img src="eiissBIAAAAJ:d1gkVwhDpl0C"></a>
-
-</div>
+[[project page]](https://aim-skku.github.io/QA-TIGER/) [[arXiv]](https://arxiv.org/abs/2503.04459) [[paper]]() [[code]](https://github.com/AIM-SKKU/QA-TIGER) <a href='https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eiissBIAAAAJ&citation_for_view=eiissBIAAAAJ:d1gkVwhDpl0C'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 </div>
 
 # 🎖 Honors and Awards
@@ -51,9 +49,5 @@ Hongyeob Kim*, <blue>**Inyoung Jung**<blue>*, Dayoon Suh, Youjia Zhang, Sangmin 
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.12 - 2024.02*, Artificial Intelligence and Media Lab @ [Sungkyunkwan Univ](https://aim.skku.edu/).
