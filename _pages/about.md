@@ -45,7 +45,7 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
 - *2024.07 - 2024.12*: <strong>Robust Deep Semantic Segmentation Model for Continual Domain Shifts</strong>, *Capstone Design in Information and Communication Engineering by Inha University*
 
 # 🎖 Honors and Awards
-- *2025.02*: <strong>Honorable Mention for Outstanding Paper Award<strong>, IPIU 2025.
+- *2025.02*: <strong>Honorable Mention for Outstanding Paper Award</strong>, IPIU 2025.
 - *2024.12*: <strong>Excellence Award in Capstone Design for Information and Communication Engineering</strong>, Inha University.
 
 # 📖 Educations
@@ -53,5 +53,5 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
 - *2021.03 - 2024.02*: Inha University, Bachelor or Engineering, Department of Information and Communication Engineering.
 
 # 💻 Internships
-- *2025.01 - 2025.02*: [ARI.ai](https://www.ariai.io/).
+- *2025.01 - 2025.02*: AI Research Engineer Intern @ [ARI.ai](https://www.ariai.io/).
 - *2022.12 - 2024.02*: Artificial Intelligence and Media Lab @ [Sungkyunkwan Univ](https://aim.skku.edu/).
