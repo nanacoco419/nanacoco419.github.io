@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, advised by <a href='https://www.csehong.com/'>Prof. Sungeun Hong</a>. My research focuses on building robust and adaptive AI through multimodal learning and test-time adaptation. I have proposed novel frameworks for semantic segmentation and classification under domain shifts, leveraging class-wise alignment and adaptive thresholding. Recently, I introduced a question-aware temporal reasoning model for audio-visual question answering, which integrates Gaussian experts and modality interaction. My recent work expands into audio-visual reasoning and zero-shot test-time adaptation via prompt-based modality fusion.
+I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, advised by <a href='https://www.csehong.com/'>Prof. Sungeun Hong</a> in the Artificial Intelligence and Media Lab (<a href='https://aim.skku.edu/home'>AIM Lab</a>). My research focuses on building robust and adaptive AI through multimodal learning and test-time adaptation. I have proposed novel frameworks for semantic segmentation and classification under domain shifts, leveraging class-wise alignment and adaptive thresholding. Recently, I introduced a question-aware temporal reasoning model for audio-visual question answering, which integrates Gaussian experts and modality interaction. My recent work expands into audio-visual reasoning and zero-shot test-time adaptation via prompt-based modality fusion.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>  -->
 <!-- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -41,15 +41,17 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
 </div>
 
 # 💡 Projects
-- *2024.09 - 2025.08*: Zero-Shot Question-Answering Framework with Adaptive Audio-Visual Fusion Prompts, *M.S. Students Fellowship by National Research Foundation of Korea (NRF)*
+- *2024.09 - 2025.08*: <strong>Zero-Shot Question-Answering Framework with Adaptive Audio-Visual Fusion Prompts</strong>, *M.S. Students Fellowship by National Research Foundation of Korea (NRF)*
+- *2024.07 - 2024.12*: <strong>Robust Deep Semantic Segmentation Model for Continual Domain Shifts</strong>, *Capstone Design in Information and Communication Engineering by Inha University*
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: <strong>Honorable Mention for Outstanding Paper Award<strong>, IPIU 2025.
+- *2024.12*: <strong>Excellence Award in Capstone Design for Information and Communication Engineering</strong>, Inha University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03 - present*: Sungkyunkwan University, M.S. Student, Department of Immersive Media Engineering.
+- *2021.03 - 2024.02*: Inha University, Bachelor or Engineering, Department of Information and Communication Engineering.
 
 # 💻 Internships
-- *2022.12 - 2024.02*, Artificial Intelligence and Media Lab @ [Sungkyunkwan Univ](https://aim.skku.edu/).
+- *2025.01 - 2025.02*: [ARI.ai](https://www.ariai.io/).
+- *2022.12 - 2024.02*: Artificial Intelligence and Media Lab @ [Sungkyunkwan Univ](https://aim.skku.edu/).
