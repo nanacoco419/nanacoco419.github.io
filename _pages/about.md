@@ -40,7 +40,7 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
   <span style="color:red">Highlight</span>
 </strong> 
 <span style="font-size: smaller;">(Accept. rate 22.12%)</span><br>
-Hongyeob Kim*, <span style="color:blue"><strong>Inyoung Jung</strong></span>*, Dayoon Suh, Youjia Zhang, Sangmin Lee, and Sungeun Hong
+Hongyeob Kim*, <span style="color:blue"><strong>Inyoung Jung</strong></span>*, Dayoon Suh, Youjia Zhang, Sangmin Lee, and Sungeun Hong<br>
 <a href="https://aim-skku.github.io/QA-TIGER/">[project page]</a> 
 <a href="https://arxiv.org/abs/2503.04459">[arXiv]</a> 
 <a href="#">[paper]</a> 
