@@ -33,9 +33,8 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
 <span style="font-size: smaller;">Equal contribution are denoted by *</span>
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/qa-tiger.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text'>
-
-- Question-Aware Gaussian Experts for Audio-Visual Question Answering, 
 <strong>
+- Question-Aware Gaussian Experts for Audio-Visual Question Answering, 
   <span style="color:blue">CVPR 2025</span> 
   <span style="color:red">Highlight</span>
 </strong> 
