@@ -48,7 +48,7 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
 
 # 🎖 Honors and Awards
 - *2025.02*: <strong>Honorable Mention for Outstanding Paper Award</strong>, IPIU 2025.
-- *2024.12*: <strong>Excellence Award in Capstone Design for Information and Communication Engineering</strong>, Inha University.
+- *2024.12*: <strong>Excellence Award</strong>, Capstone Design for Information and Communication Engineering by Inha University.
 
 # 📖 Educations
 - *2024.03 - present*: Sungkyunkwan University, M.S. Student, Department of Immersive Media Engineering.
