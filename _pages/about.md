@@ -30,11 +30,10 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
 - *2024.10*: &nbsp;🎉🎉 Prototypical Class-wise Test-Time Adaptation is accepted at Pattern Recognition Letters!
 
 # 📝 Publications 
-<small>Equal contribution are denoted by *</small>
+<span style="font-size: smaller;">Equal contribution are denoted by *</span>
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/qa-tiger.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text'>
 
-<p>
 - Question-Aware Gaussian Experts for Audio-Visual Question Answering, 
 <strong>
   <span style="color:blue">CVPR 2025</span> 
@@ -46,10 +45,7 @@ Hongyeob Kim*, <span style="color:blue"><strong>Inyoung Jung</strong></span>*, D
 <a href="https://arxiv.org/abs/2503.04459">[arXiv]</a> 
 <a href="#">[paper]</a> 
 <a href="https://github.com/AIM-SKKU/QA-TIGER">[code]</a> 
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eiissBIAAAAJ&citation_for_view=eiissBIAAAAJ:d1gkVwhDpl0C'>
-  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>
-</p>
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eiissBIAAAAJ&citation_for_view=eiissBIAAAAJ:d1gkVwhDpl0C'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 </div>
 
