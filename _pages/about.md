@@ -30,7 +30,7 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
 - *2024.10*: &nbsp;🎉🎉 Prototypical Class-wise Test-Time Adaptation is accepted at Pattern Recognition Letters!
 
 # 📝 Publications 
-Equal contribution are denoted by *
+<small>Equal contribution are denoted by *</small>
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/qa-tiger.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
