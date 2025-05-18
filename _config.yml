@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Inyoung Jung"
-description              : "M.S student at Sungkyunkwan Univ."
+description              : # "M.S student at Sungkyunkwan Univ."
 repository               : "nanacoco419/nanacoco419.github.io"
 google_scholar_stats_use_cdn : true
 
