@@ -34,11 +34,7 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/qa-tiger.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
-- <strong>Question-Aware Gaussian Experts for Audio-Visual Question Answering, <span style="color:blue">CVPR 2025</span> <span style="color:red">Highlight</span></strong> <span style="font-size: smaller;">(Accept. rate 22.12%)</span>
-
-Hongyeob Kim*, **<span style="color:blue">Inyoung Jung</span>***, Dayoon Suh, Youjia Zhang, Sangmin Lee, and Sungeun Hong
-
-[[project page]](https://aim-skku.github.io/QA-TIGER/) [[arXiv]](https://arxiv.org/abs/2503.04459) [[paper]]() [[code]](https://github.com/AIM-SKKU/QA-TIGER) <a href='https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eiissBIAAAAJ&citation_for_view=eiissBIAAAAJ:d1gkVwhDpl0C'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+- <strong>Question-Aware Gaussian Experts for Audio-Visual Question Answering, <span style="color:blue">CVPR 2025</span> <span style="color:red">Highlight</span></strong> <span style="font-size: smaller;">(Accept. rate 22.12%)</span><br>Hongyeob Kim*, **<span style="color:blue">Inyoung Jung</span>***, Dayoon Suh, Youjia Zhang, Sangmin Lee, and Sungeun Hong<br>[[project page]](https://aim-skku.github.io/QA-TIGER/) [[arXiv]](https://arxiv.org/abs/2503.04459) [[paper]]() [[code]](https://github.com/AIM-SKKU/QA-TIGER) <a href='https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eiissBIAAAAJ&citation_for_view=eiissBIAAAAJ:d1gkVwhDpl0C'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 </div>
 
