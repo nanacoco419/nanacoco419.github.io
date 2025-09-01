@@ -24,6 +24,7 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Winner of the 2025 Sungkyunkwan University President's List.
 - *2025.04*: &nbsp;🎉🎉 Question-Aware Gaussian Experts for Audio-Visual Question Answering was selected as highlight at CVPR 2025!
 - *2025.02*: &nbsp;🎉🎉 Question-Aware Gaussian Experts for Audio-Visual Question Answering is accpeted at CVPR 2025!
 - *2025.02*: &nbsp;🎉🎉 Winner of the Honorable Mention for Outstanding Paper Award at IPIU 2025.
@@ -34,7 +35,7 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/qa-tiger.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
-- <strong>Question-Aware Gaussian Experts for Audio-Visual Question Answering, <span style="color:blue">CVPR 2025</span> <span style="color:red">Highlight</span></strong> <span style="font-size: smaller;">(Accept. rate 22.12%)</span><br> Hongyeob Kim*, <strong><span style="color:blue">Inyoung Jung</span>*</strong>, Dayoon Suh, Youjia Zhang, Sangmin Lee, and Sungeun Hong<br>[[project page]](https://aim-skku.github.io/QA-TIGER/) [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Question-Aware_Gaussian_Experts_for_Audio-Visual_Question_Answering_CVPR_2025_paper.html) [[arXiv]](https://arxiv.org/abs/2503.04459) [[code]](https://github.com/AIM-SKKU/QA-TIGER) <a href='https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eiissBIAAAAJ&citation_for_view=eiissBIAAAAJ:d1gkVwhDpl0C'><img src="https://img.shields.io/badge/Google%20Scholar-View-blue?logo=Google%20Scholar&style=flat"></a>
+- <strong>Question-Aware Gaussian Experts for Audio-Visual Question Answering, <span style="color:blue">CVPR 2025</span> <span style="color:red">Highlight</span></strong> <span style="font-size: smaller;">(Accept. rate 2.98%)</span><br> Hongyeob Kim*, <strong><span style="color:blue">Inyoung Jung</span>*</strong>, Dayoon Suh, Youjia Zhang, Sangmin Lee, and Sungeun Hong<br>[[project page]](https://aim-skku.github.io/QA-TIGER/) [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Question-Aware_Gaussian_Experts_for_Audio-Visual_Question_Answering_CVPR_2025_paper.html) [[arXiv]](https://arxiv.org/abs/2503.04459) [[code]](https://github.com/AIM-SKKU/QA-TIGER) <a href='https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eiissBIAAAAJ&citation_for_view=eiissBIAAAAJ:d1gkVwhDpl0C'><img src="https://img.shields.io/badge/Google%20Scholar-View-blue?logo=Google%20Scholar&style=flat"></a>
 <!-- <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 - <strong>Prototypical Class-wise Test-Time Adaptation, <span style="color:blue">Pattern Recognition Letters 2025</span></strong><br>Hojoon Lee, Seunghwan Lee, **<span style="color:blue">Inyoung Jung</span>**, and Sungeun Hong<br>[[DOI]](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.patrec.2024.10.011&sa=D&sntz=1&usg=AOvVaw2V6yZknKj_BL1GeClW6opZ) [[paper]](https://www.sciencedirect.com/science/article/pii/S016786552400299X/pdfft?casa_token=PcnO8FCxc_UAAAAA:R31sNDSXlvyo9gwRaVIUl_r5zqh9oTPoSHg8iepo8G0StOxWF_7q9CP10ZdzJ1oGGC5SZx4fXXI&md5=e83a2446f29e2b60b374c913fb291e36&pid=1-s2.0-S016786552400299X-main.pdf) <a href="https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eiissBIAAAAJ&citation_for_view=eiissBIAAAAJ:d1gkVwhDpl0C"><img src="https://img.shields.io/badge/Google%20Scholar-View-blue?logo=Google%20Scholar&style=flat"></a>
@@ -47,6 +48,7 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
 - *2024.07 - 2024.12*: <strong>Robust Deep Semantic Segmentation Model for Continual Domain Shifts</strong>, *Capstone Design in Information and Communication Engineering by Inha University*
 
 # 🎖 Honors and Awards
+- *2025.09*: <strong>Winner of the President's List</strong>, Sungkyunkwan University 2025.
 - *2025.02*: <strong>Honorable Mention for Outstanding Paper Award</strong>, IPIU 2025.
 - *2024.12*: <strong>Excellence Award</strong>, Capstone Design for Information and Communication Engineering by Inha University.
 
@@ -55,5 +57,6 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
 - *2021.03 - 2024.02*: Inha University, Bachelor of Engineering, Department of Information and Communication Engineering.
 
 # 💻 Internships
+- *2025.08 - present*: AI Developer Intern @ [CJ Logistics-TES LAB](https://www.cjlogistics.com/ko/tes/).
 - *2025.01 - 2025.02*: AI Research Engineer Intern @ [ARI.ai](https://www.ariai.io/).
 - *2022.12 - 2024.02*: Artificial Intelligence and Media Lab @ [Sungkyunkwan Univ](https://aim.skku.edu/).
