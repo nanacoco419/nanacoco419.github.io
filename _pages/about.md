@@ -57,6 +57,6 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
 - *2021.03 - 2024.02*: Inha University, Bachelor of Engineering, Department of Information and Communication Engineering.
 
 # 💻 Internships
-- *2025.08 - present*: AI Developer Intern @ [CJ Logistics-TES LAB](https://www.cjlogistics.com/ko/tes/).
+- *2025.08 - 2025.11*: AI Developer Intern @ [CJ Logistics-TES LAB](https://www.cjlogistics.com/ko/tes/).
 - *2025.01 - 2025.02*: AI Research Engineer Intern @ [ARI.ai](https://www.ariai.io/).
 - *2022.12 - 2024.02*: Artificial Intelligence and Media Lab @ [Sungkyunkwan Univ](https://aim.skku.edu/).
