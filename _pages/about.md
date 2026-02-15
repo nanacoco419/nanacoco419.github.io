@@ -46,6 +46,7 @@ I am a second-year M.S. student at SKKU (Sungkyunkwan University), South Korea, 
 </div>
 
 # 💡 Projects
+- *2025.08 - 2025.11*: <strong>Development of a Logistics Volume Forecasting Model for Hub-to-Sub Routes Based on Time-Series Data</strong>, *CJ Logistics-TES LAB (AI Development Team)*
 - *2024.09 - 2025.08*: <strong>Zero-Shot Question-Answering Framework with Adaptive Audio-Visual Fusion Prompts</strong>, *M.S. Students Fellowship by National Research Foundation of Korea (NRF)*
 - *2024.07 - 2024.12*: <strong>Robust Deep Semantic Segmentation Model for Continual Domain Shifts</strong>, *Capstone Design in Information and Communication Engineering by Inha University*
 
