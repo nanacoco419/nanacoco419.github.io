@@ -28,6 +28,7 @@ I am an M.S. graduate of SKKU (Sungkyunkwan University), South Korea, advised by
 - *2025.04*: &nbsp;🎉🎉 Question-Aware Gaussian Experts for Audio-Visual Question Answering was selected as highlight at CVPR 2025!
 - *2025.02*: &nbsp;🎉🎉 Question-Aware Gaussian Experts for Audio-Visual Question Answering is accpeted at CVPR 2025!
 - *2025.02*: &nbsp;🎉🎉 Winner of the Honorable Mention for Outstanding Paper Award at IPIU 2025.
+- *2024.10*: &nbsp;🎉🎉 Prototypical Class-wise Test-Time Adaptation is accepted at Pattern Recognition Letters!
 
 # 📝 Publications 
 <span style="font-size: smaller;">Equal contribution are denoted by *</span>
@@ -45,8 +46,8 @@ I am an M.S. graduate of SKKU (Sungkyunkwan University), South Korea, advised by
 </div>
 
 # 📄 Patents
-- <strong>System and Method for Question-Aware Audio-Visual Question Answering</strong>, filed 2025.11 (SKKU).
-- <strong>Apparatus and Method for Generating an Image Learning Model</strong>, filed 2024.11 (SKKU).
+- <strong>System and Method for Question-Aware Audio-Visual Question Answering</strong>, KR-Application No. 10-2025-0176475, 2025.11 (SKKU).
+- <strong>Apparatus and Method for Generating an Image Learning Model</strong>, KR-Application No. 10-2024-0168645, 2024.11 (SKKU).
 
 # 💡 Projects
 - *2025.08 - 2025.11*: <strong>Development of a Logistics Volume Forecasting Model for Hub-to-Sub Routes Based on Time-Series Data</strong>, *CJ Logistics-TES LAB (AI Development Team)*
