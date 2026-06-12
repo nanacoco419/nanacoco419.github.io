@@ -51,7 +51,7 @@ I am an M.S. graduate of SKKU (Sungkyunkwan University), South Korea, advised by
 # 💡 Projects
 - *2025.08 - 2025.11*: <strong>Development of a Logistics Volume Forecasting Model for Hub-to-Sub Routes Based on Time-Series Data</strong>, *CJ Logistics-TES LAB (AI Development Team)*
 - *2024.09 - 2025.08*: <strong>Zero-Shot Question-Answering Framework with Adaptive Audio-Visual Fusion Prompts</strong>, *M.S. Students Fellowship by National Research Foundation of Korea (NRF)*
-- *2024.03 - 2025.08*: <strong>RGB-X Path Networks for Multi-modal Multi-task Learning</strong>, *by National Research Foundation of Korea (NRF)*
+- *2024.03 - 2025.05*: <strong>RGB-X Path Networks for Multi-modal Multi-task Learning</strong>, *by National Research Foundation of Korea (NRF)*
 - *2024.03 - 2026.02*: <strong>Metaverse Convergence Graduate School</strong>, *by Institute for Information & Communications Technology Planning & Evaluation (IITP)*
 - *2023.08 - 2023.12*: <strong>Robust Deep Semantic Segmentation Model for Continual Domain Shifts</strong>, *Capstone Design in Information and Communication Engineering by Inha University*
 
