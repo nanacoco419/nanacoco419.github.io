@@ -28,7 +28,6 @@ I am an M.S. graduate of SKKU (Sungkyunkwan University), South Korea, advised by
 - *2025.04*: &nbsp;🎉🎉 Question-Aware Gaussian Experts for Audio-Visual Question Answering was selected as highlight at CVPR 2025!
 - *2025.02*: &nbsp;🎉🎉 Question-Aware Gaussian Experts for Audio-Visual Question Answering is accpeted at CVPR 2025!
 - *2025.02*: &nbsp;🎉🎉 Winner of the Honorable Mention for Outstanding Paper Award at IPIU 2025.
-- *2024.10*: &nbsp;🎉🎉 Prototypical Class-wise Test-Time Adaptation is accepted at Pattern Recognition Letters!
 
 # 📝 Publications 
 <span style="font-size: smaller;">Equal contribution are denoted by *</span>
@@ -62,7 +61,7 @@ I am an M.S. graduate of SKKU (Sungkyunkwan University), South Korea, advised by
 - *2023.12*: <strong>Excellence Award</strong>, Capstone Design for Information and Communication Engineering by Inha University.
 
 # 📖 Educations
-- *2024.03 - 2026.02*: Sungkyunkwan University, M.S., Department of Immersive Media Engineering.
+- *2024.03 - 2026.02*: Sungkyunkwan University, M.S. Department of Immersive Media Engineering.
 - *2021.03 - 2024.02*: Inha University, Bachelor of Engineering, Department of Information and Communication Engineering.
 
 # 💼 Experience
