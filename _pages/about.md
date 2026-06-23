@@ -65,7 +65,7 @@ I am an M.S. graduate of SKKU (Sungkyunkwan University), South Korea, advised by
 - *2021.03 - 2024.02*: Inha University, Bachelor of Engineering, Department of Information and Communication Engineering.
 
 # 💼 Experience
-- *2026 - present*: AI Research Engineer @ [Samsung Electronics-Samsung Research](https://research.samsung.com/).
+- *2026.07 - present*: AI Research Engineer @ [Samsung Electronics-Samsung Research](https://research.samsung.com/).
 - *2025.08 - 2025.11*: AI Developer Intern @ [CJ Logistics-TES LAB](https://www.cjlogistics.com/ko/tes/).
 - *2025.01 - 2025.02*: AI Research Engineer Intern @ [ARI.ai](https://www.ariai.io/).
 - *2022.12 - 2024.02*: Undergraduate Research @ [AIM LAB](https://aim.skku.edu/home).
